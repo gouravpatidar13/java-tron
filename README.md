@@ -340,6 +340,7 @@ Read the [Advanced Configurations](src/main/java/org/tron/core/config/README.md)
 
 # Developer Community
 
+* [Reddit](https://www.reddit.com/r/Tronix/) The official TRON Community on Reddit.
 * [Slack](https://tronfoundation.slack.com/) Please email tian@tron.network for a developer invite
 
 # Links
